@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything (not my personal life, bro!!)
 - 📫 How to reach me: ... ✔️Linkedin - https://www.linkedin.com/in/utsab-sarkar-37973b270/  
                           ✔️Mail - utsab.heart@gmail.com
-- 😄 Pronouns: ... ut_so_ob
+- 😄 Pronunciation: ... ut_so_ob
 - ⚡ Fun fact: ... I like Velpuri not Panipuri
