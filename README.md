@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utsab Sarkar</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsabsarkar12&label=Profile%20views&color=0e75b6&style=flat" alt="utsabsarkar12" /> </p>
-
 - 🌱 I’m currently learning **Python & Pandas**
 
 - 💬 Ask me about **Anything (not my personal life, bro!!)**
@@ -73,7 +71,7 @@
         </tr>
         <tr>
             <td>Testing</td>
-            <td>Unit Testing, Black-Box Testing</td>
+            <td>Unit Testing (JUnit, Mockito), Black-Box Testing</td>
         </tr>
         <tr>
             <td>Methodologies</td>
