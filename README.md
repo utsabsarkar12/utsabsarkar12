@@ -35,6 +35,7 @@
                 <li>Data Structure and Algorithm,</li>
                 <li>Web Technology and Development,</li>
                 <li>Software Development and Testing</li>
+                <li>Data Science (ML & AI)</li>
             </ul>
         </li>
     </ul>
@@ -55,7 +56,7 @@
         </tr>
         <tr>
             <td>Web Development</td>
-            <td>JSP, Thymeleaf, Bootstrap3, HTML5, CSS</td>
+            <td>JSP, Thymeleaf, Bootstrap, HTML5, CSS</td>
         </tr>
         <tr>
             <td>Database</td>
@@ -71,7 +72,7 @@
         </tr>
         <tr>
             <td>Testing</td>
-            <td>Unit Testing (JUnit, Mockito), Black-Box Testing</td>
+            <td>Unit Testing, Black-Box Testing</td>
         </tr>
         <tr>
             <td>Methodologies</td>
