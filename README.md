@@ -48,7 +48,7 @@
         </tr>
         <tr>
             <td>Programming Languages</td>
-            <td>C, Java, Python</td>
+            <td>C, Java, Python, Javascript</td>
         </tr>
         <tr>
             <td>Frameworks</td>
