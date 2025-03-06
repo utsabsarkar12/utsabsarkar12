@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utsab Sarkar</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Python & Pandas**
+- 🌱 I’m currently learning **Pandas**
 
 - 💬 Ask me about **Anything (not my personal life, bro!!)**
 
@@ -29,13 +29,14 @@
 <h2>Education</h2>
     <ul>
         <li>
-            <strong>B.Sc. in Software Engineering (SWE) - DAFFODIL INTERNATIONAL UNIVERSITY (DIU)</strong><br>
+            <strong>B.Sc. in Software Engineering major in Data Science - DAFFODIL INTERNATIONAL UNIVERSITY (DIU)</strong><br>
             Main Focus:
             <ul>
+                <li>Data Science (ML & AI)</li>
+                <li>Deep Learning & Generative AI</li>
                 <li>Data Structure and Algorithm,</li>
                 <li>Web Technology and Development,</li>
                 <li>Software Development and Testing</li>
-                <li>Data Science (ML & AI)</li>
             </ul>
         </li>
     </ul>
@@ -48,15 +49,19 @@
         </tr>
         <tr>
             <td>Programming Languages</td>
-            <td>C, Java, Python, Javascript</td>
+            <td>Python, R, C, Java, Javascript</td>
         </tr>
         <tr>
             <td>Frameworks</td>
-            <td>Spring Boot, Hibernate, JPA</td>
+            <td>Scikit-learn, PyTorch, Spring Boot</td>
+        </tr>
+        <tr>
+            <td>Data Processing & Visualization</td>
+            <td>Pandas, Numpy, Matplotlib, Seaborn</td>
         </tr>
         <tr>
             <td>Web Development</td>
-            <td>JSP, Thymeleaf, Bootstrap, HTML5, CSS</td>
+            <td>Thymeleaf, Bootstrap, HTML5, CSS</td>
         </tr>
         <tr>
             <td>Database</td>
@@ -64,18 +69,22 @@
         </tr>
         <tr>
             <td>Tools</td>
-            <td>Visual Studio, IntelliJ IDEA, Pycharm IDEA, Git, GitHub, SourceTree</td>
+            <td>Anaconda, Visual Studio, IntelliJ IDEA, Pycharm IDEA</td>
+        </tr>
+        <tr>
+            <td>Version Control</td>
+            <td>Git, GitHub, SourceTree</td>
         </tr>
         <tr>
             <td>System Design</td>
-            <td>XML, ER Diagram</td>
+            <td>Activity Diagram, ER Diagram</td>
         </tr>
         <tr>
             <td>Testing</td>
-            <td>Unit Testing, Black-Box Testing</td>
+            <td>Unit Testing, Black-Box Testing, White-Box Testing</td>
         </tr>
         <tr>
             <td>Methodologies</td>
-            <td>Maven, Tomcat, Agile, Scrum</td>
+            <td>Agile, Scrum, Kanban</td>
         </tr>
     </table>
